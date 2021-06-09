@@ -44,21 +44,21 @@ and are given here.
 File | Description
 -----|------------
 [persistence_trends.pdf](./persistence_trends.pdf) | Table of persistence means and regression model effects across courses
-[engagement_neuroscience.html](./engagement_neuroscience.html) | Engagement regression analysis for the Neuroscience course
-[engagement_communication_a.html](./engagement_communication_a.html) | Engagement regression analysis for the Communication A course
-[engagement_microbiology.html](./engagement_microbiology.html) | Engagement regression analysis for the Microbiology course
-[engagement_psychology.html](./engagement_psychology.html) | Engagement regression analysis for the Psychology course
-[engagement_communication_b.html](./engagement_communication_b.html) | Engagement regression analysis for the Communication B course
-[engagement_accounting.html](./engagement_accounting.html) | Engagement regression analysis for the Accounting course
-[difficulty_neuroscience.html](./difficulty_neuroscience.html) | Difficulty regression analysis for the Neuroscience course
-[difficulty_communication_a.html](./difficulty_communication_a.html) | Difficulty regression analysis for the Communication A course
-[difficulty_microbiology.html](./difficulty_microbiology.html) | Difficulty regression analysis for the Microbiology course
-[difficulty_psychology.html](./difficulty_psychology.html) | Difficulty regression analysis for the Psychology course
-[difficulty_communication_b.html](./difficulty_communication_b.html) | Difficulty regression analysis for the Communication B course
-[difficulty_accounting.html](./difficulty_accounting.html) | Difficulty regression analysis for the Accounting course
-[persistence_neuroscience.html](./persistence_neuroscience.html) | Persistence regression analysis for the Neuroscience course
-[persistence_communication_a.html](./persistence_communication_a.html) | Persistence regression analysis for the Communication A course
-[persistence_microbiology.html](./persistence_microbiology.html) | Persistence regression analysis for the Microbiology course
-[persistence_psychology.html](./persistence_psychology.html) | Persistence regression analysis for the Psychology course
-[persistence_communication_b.html](./persistence_communication_b.html) | Persistence regression analysis for the Communication B course
-[persistence_accounting.html](./persistence_accounting.html) | Persistence regression analysis for the Accounting course
+[engagement_neuroscience.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_neuroscience.html) | Engagement regression analysis for the Neuroscience course
+[engagement_communication_a.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_communication_a.html) | Engagement regression analysis for the Communication A course
+[engagement_microbiology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_microbiology.html) | Engagement regression analysis for the Microbiology course
+[engagement_psychology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_psychology.html) | Engagement regression analysis for the Psychology course
+[engagement_communication_b.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_communication_b.html) | Engagement regression analysis for the Communication B course
+[engagement_accounting.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/engagement_accounting.html) | Engagement regression analysis for the Accounting course
+[difficulty_neuroscience.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_neuroscience.html) | Difficulty regression analysis for the Neuroscience course
+[difficulty_communication_a.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_communication_a.html) | Difficulty regression analysis for the Communication A course
+[difficulty_microbiology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_microbiology.html) | Difficulty regression analysis for the Microbiology course
+[difficulty_psychology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_psychology.html) | Difficulty regression analysis for the Psychology course
+[difficulty_communication_b.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_communication_b.html) | Difficulty regression analysis for the Communication B course
+[difficulty_accounting.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/difficulty_accounting.html) | Difficulty regression analysis for the Accounting course
+[persistence_neuroscience.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_neuroscience.html) | Persistence regression analysis for the Neuroscience course
+[persistence_communication_a.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_communication_a.html) | Persistence regression analysis for the Communication A course
+[persistence_microbiology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_microbiology.html) | Persistence regression analysis for the Microbiology course
+[persistence_psychology.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_psychology.html) | Persistence regression analysis for the Psychology course
+[persistence_communication_b.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_communication_b.html) | Persistence regression analysis for the Communication B course
+[persistence_accounting.html](https://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/aied-2021-itextbooks/aied-2021-itextbooks/persistence_accounting.html) | Persistence regression analysis for the Accounting course
