@@ -5,9 +5,11 @@ This folder contains additional data and analyses for our paper
 Van Campenhout, R., Dittel, J. S., Jerome, B., & Johnson,
 B. G. (2021). Transforming Textbooks into Learning by Doing
 Environments: An Evaluation of Textbook-Based Automatic Question
-Generation. *** TODO: ADD REST OF REFERENCE ***
+Generation. Proceedings of the Third Workshop on Intelligent
+Textbooks, 22nd International Conference on Artificial Intelligence in
+Education (AIED 2021).
 
-The paper was presented at the [Third Workshop on Intelligent Textbooks
+The paper was presented in the [Third Workshop on Intelligent Textbooks
 (iTextbooks)](https://intextbooks.science.uu.nl/workshop2021/), part
 of the [22nd Annual Conference on Artificial Intelligence in
 Education](https://aied2021.science.uu.nl/).
