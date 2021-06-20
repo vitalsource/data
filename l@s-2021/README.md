@@ -13,14 +13,13 @@ pp. 295–298. https://doi.org/10.1145/3430895.3460162
 ## Description
 
 Integrating formative practice questions with short sections of lesson
-content has been shown to increase student learning gains (TODO:
-refs?).  However, question writing is a labor-intensive process that
-requires both subject matter and item writing expertise. The volume of
-questions needed for a typical course is in the hundreds or thousands,
-a scale that is often prohibitive in time and cost for manual
-development. We are investigating automatic question generation (AQG)
-as a way to reduce this barrier, using textbooks as the source
-material.
+content has been shown to increase student learning gains. However,
+question writing is a labor-intensive process that requires both
+subject matter and item writing expertise. The volume of questions
+needed for a typical course is in the hundreds or thousands, a scale
+that is often prohibitive in time and cost for manual development. We
+are investigating automatic question generation (AQG) as a way to
+reduce this barrier, using textbooks as the source material.
 
 The data set made available is from an ongoing project to evaluate the
 quality of textbook-based AQG in a variety of natural learning
@@ -89,7 +88,7 @@ Field | Description
 `unit_page_number` | Location of the question’s page within its course unit
 `module_page_number` | Location of the question’s page within its course module
 `page_question_number` | Question’s number on its page
-`question_type` | Identifier for question origin and format<br/>Examples: AG_FITB = automatically generated fill-in-the-blank, HA_MC = human-authored multiple-choice
+`question_type` | Identifier for question origin and format<br/>Examples:<br/>`AG_FITB` = automatically generated fill-in-the-blank<br/>`HA_MC` = human-authored multiple-choice
 `answered` | Whether the student answered the question (for engagement)
 `correct` | For answered questions, whether the student got the correct answer on the first attempt (for difficulty)
 `persisted` | For incorrectly answered questions, whether the student continued to answer the question until they got the correct answer (for persistence)
@@ -102,4 +101,6 @@ divided their units into modules. For these, `unit_page_number` and
 `fixed-effect model matrix is rank deficient so dropping 1 column /
 coefficient` when fitting the regression models.
 
-## TODO: References?
+## Contact Us
+
+If you have questions, please feel free to email benny.johnson@vitalsource.com.
