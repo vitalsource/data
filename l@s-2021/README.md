@@ -2,7 +2,7 @@
 
 This folder contains the complete data set and analysis code for our
 project comparing performance of automatically generated and human-authored
-questions, which is discussed in our paper
+questions, which is discussed in our papers
 
 Van Campenhout, R., Brown, N., Jerome, B., Dittel, J. S., & Johnson,
 B. G. (2021). Toward Effective Courseware at Scale: Investigating
@@ -10,9 +10,17 @@ Automatically Generated Questions as Formative Practice. L@S '21:
 Proceedings of the Eighth ACM Conference on Learning@Scale,
 pp. 295–298. https://doi.org/10.1145/3430895.3460162
 
-**UPDATE**: We are pleased and honored to have won the first ever
-Learning@Scale Best Open Data Set Paper Award for this work! Thank
-you, [L@S](https://learningatscale.acm.org) and [Schmidt
+Van Campenhout, R., Dittel, J. S., Jerome, B., & Johnson,
+B. G. (2021). Transforming textbooks into learning by doing
+environments: An evaluation of textbook-based automatic question
+generation. 22nd International Conference on Artificial Intelligence
+in Education, Third Workshop on Intelligent Textbooks. CEUR Workshop
+Proceedings, ISSN 1613-0073, pp. 1–12.
+http://ceur-ws.org/Vol-2895/paper06.pdf
+
+We are pleased and honored to have won the first ever Learning@Scale
+Best Open Data Set Paper Award for this work! Thank you,
+[L@S](https://learningatscale.acm.org) and [Schmidt
 Futures](https://schmidtfutures.com)!!
 https://twitter.com/LearningAtScale/status/1408112524134846466
 
