@@ -15,7 +15,7 @@ B. G. (2021). Transforming textbooks into learning by doing
 environments: An evaluation of textbook-based automatic question
 generation. 22nd International Conference on Artificial Intelligence
 in Education, Third Workshop on Intelligent Textbooks. CEUR Workshop
-Proceedings, ISSN 1613-0073, pp. 1–12.
+Proceedings, ISSN 1613-0073, pp. 60–73.
 http://ceur-ws.org/Vol-2895/paper06.pdf
 
 We are pleased and honored to have won the first ever Learning@Scale
