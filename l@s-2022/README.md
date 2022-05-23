@@ -80,14 +80,14 @@ responses_neuroscience_p23.txt | Response data for page 23 of the Neuroscience c
 responses_neuroscience_p24.txt | Response data for page 24 of the Neuroscience course
 responses_neuroscience_p34.txt | Response data for page 34 of the Neuroscience course
 responses_neuroscience_p58.txt | Response data for page 58 of the Neuroscience course
-[IRT Analysis Neuroscience Page 4.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%204.html) | IRT analysis for page 4 of the Neuroscience course
-[IRT Analysis Neuroscience Page 11.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2011.html) | IRT analysis for page 11 of the Neuroscience course
-[IRT Analysis Neuroscience Page 13.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2013.html) | IRT analysis for page 13 of the Neuroscience course
-[IRT Analysis Neuroscience Page 14.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2014.html) | IRT analysis for page 14 of the Neuroscience course
-[IRT Analysis Neuroscience Page 23.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2023.html) | IRT analysis for page 23 of the Neuroscience course
-[IRT Analysis Neuroscience Page 24.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2024.html) | IRT analysis for page 24 of the Neuroscience course
-[IRT Analysis Neuroscience Page 34.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2034.html) | IRT analysis for page 34 of the Neuroscience course
-[IRT Analysis Neuroscience Page 58.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/l%40s-2022/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2058.html) | IRT analysis for page 58 of the Neuroscience course
+[IRT Analysis Neuroscience Page 4.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%204.html) | IRT analysis for page 4 of the Neuroscience course
+[IRT Analysis Neuroscience Page 11.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2011.html) | IRT analysis for page 11 of the Neuroscience course
+[IRT Analysis Neuroscience Page 13.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2013.html) | IRT analysis for page 13 of the Neuroscience course
+[IRT Analysis Neuroscience Page 14.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2014.html) | IRT analysis for page 14 of the Neuroscience course
+[IRT Analysis Neuroscience Page 23.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2023.html) | IRT analysis for page 23 of the Neuroscience course
+[IRT Analysis Neuroscience Page 24.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2024.html) | IRT analysis for page 24 of the Neuroscience course
+[IRT Analysis Neuroscience Page 34.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2034.html) | IRT analysis for page 34 of the Neuroscience course
+[IRT Analysis Neuroscience Page 58.html](http://htmlpreview.github.io/?https://github.com/vitalsource/data/blob/main/l%40s-2022/IRT%20Analysis%20Neuroscience%20Page%2058.html) | IRT analysis for page 58 of the Neuroscience course
 model_summary_neuroscience_p4.txt | IRT model summary from `pymc3` for page 4 of the Neuroscience course
 model_summary_neuroscience_p11.txt | IRT model summary from `pymc3` for page 11 of the Neuroscience course
 model_summary_neuroscience_p13.txt | IRT model summary from `pymc3` for page 13 of the Neuroscience course
