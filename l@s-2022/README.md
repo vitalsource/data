@@ -7,7 +7,7 @@ questions, which is discussed in our paper
 Johnson, B. G., Dittel, J. S., Van Campenhout, R., & Jerome, B. (2022).
 Discrimination of Automatically Generated Questions Used as Formative
 Practice. L@S '22: Proceedings of the Ninth ACM Conference on
-Learning@Scale. https://doi.org/10.1145/3491140.3528323
+Learning@Scale, pp. 325-329. https://doi.org/10.1145/3491140.3528323
 
 ## Description
 
