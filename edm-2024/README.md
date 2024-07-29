@@ -101,7 +101,7 @@ The files provided are:
 File | Description
 -----|------------
 sessions.parquet | Student sessions data set
-Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings explanatory model analysis
+Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
 
 The sessions data file is in Apache Parquet format. The Python code
 example below loads the sessions data into a pandas dataframe:
