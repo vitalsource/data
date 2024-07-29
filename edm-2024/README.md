@@ -120,7 +120,7 @@ Field | Type | Definition
 `thumbs_up` | categorical | 1 if student gave the question a :+1: rating, 0 if not
 `thumbs_down` | categorical | 1 if student gave the question a :-1: rating, 0 if not
 `H1_first_correct` | categorical | 1 if student’s first answer is correct, 0 if not
-`H2_cumulative_answered` | integer | Total number of questions answered by the student prior to the current question
+`H2_cumulative_answered` | integer | Total number of questions answered by the student so far
 `H3_spelling_suggestion` | categorical | 1 if student received a spelling suggestion during the session, 0 if not
 `H4_sentence_textrank_rank` | continuous | 0 (most important) to 1 (least important) rank of sentence in textbook chapter
 `H5_answer_tf_idf_rank` | continuous | 0 (most important) to 1 (least important) rank of answer word in textbook chapter
