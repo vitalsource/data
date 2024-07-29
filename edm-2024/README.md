@@ -21,7 +21,7 @@ you, EDM!!
 
 ## Description
 
-Integrating formative practice questions with short sections of lesson
+Integrating formative practice questions with short sections of course
 content has been shown to increase student learning gains. However,
 question writing is a labor-intensive process that requires both
 subject matter and item writing expertise. The volume of questions
@@ -32,7 +32,7 @@ We are using automatic question generation (AQG) to lower this
 barrier, using electronic textbooks as source material. To date,
 approximately 2.5 million automatically generated (AG) questions have
 been added to thousands of online textbooks in the VitalSource
-Bookshelf e-reader platform as a free study feature called CoachMe,
+Bookshelf ereader platform as a free study feature called CoachMe,
 available to millions of students. There are several types of AG
 questions available, including fill-in-the-blank (FITB), matching,
 multiple choice, and free response.
