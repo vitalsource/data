@@ -11,7 +11,7 @@ from Natural Learning Contexts. In B. Paaßen and C. D. Epp, editors,
 Proceedings of the 17th International Conference on Educational Data
 Mining, pp. 194–202, Atlanta, Georgia, USA, July 2024. International
 Educational Data Mining
-Society. https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.16/index.html
+Society. https://doi.org/10.5281/zenodo.12729796
 
 We are pleased and honored to have won the [Best Paper
 Award](https://educationaldatamining.org/edm2024/best-paper-awards/)
