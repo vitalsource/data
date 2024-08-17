@@ -1,20 +1,20 @@
 # VitalSource Supplemental Data Repository
 
-This repository contains data sets and analysis code for several of
-our papers evaluating the use of [automatic question
-generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/) for
-adding formative practice to electronic textbooks at large scale. To
-date, millions of automatically generated questions have been added to
-thousands of textbooks in the VitalSource Bookshelf ereader platform
-as a free study feature called
-[CoachMe](https://www.vitalsource.com/coach-me) available to millions
-of students. CoachMe is based on the [Doer
+This repository contains supporting data sets and analysis code for
+several of our papers where we evaluate the use of [automatic question
+generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/) as
+a way to add formative practice to electronic textbooks at a large
+scale. To date, millions of automatically generated questions have
+been added to thousands of textbooks in the VitalSource Bookshelf
+ereader platform and are available to millions of students as a free
+study feature called
+[CoachMe](https://www.vitalsource.com/coach-me). CoachMe is based on
+the [Doer
 Effect](https://research.vitalsource.com/research/doer-effect), the
 learning science principle that students who do practice as they read
-get better learning outcomes than those who only read. All our
+have better learning outcomes than those who only read. All of our
 published research papers can be found on our [research
 site](https://research.vitalsource.com).
-
 
 The data sets available are:
 
