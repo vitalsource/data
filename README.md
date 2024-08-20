@@ -23,6 +23,7 @@ Directory | Paper
 [l@s-2021](https://github.com/vitalsource/data/tree/main/l%40s-2021) | [Toward Effective Courseware at Scale: Investigating Automatically Generated Questions as Formative Practice](https://doi.org/10.1145/3430895.3460162)
 [aied-2021-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2021-itextbooks) | [Transforming Textbooks into Learning by Doing Environments: An Evaluation of Textbook-Based Automatic Question Generation](http://ceur-ws.org/Vol-2895/paper06.pdf)
 [l@s-2022](https://github.com/vitalsource/data/tree/main/l%40s-2022) | [Discrimination of Automatically Generated Questions Used as Formative Practice](https://doi.org/10.1145/3491140.3528323)
+[ijaied-2024](https://github.com/vitalsource/data/tree/main/ijaied-2024) | [Automatic Question Generation for Spanish Textbooks: Evaluating Spanish Questions Generated with the Parallel Construction Method](https://link.springer.com/article/10.1007/s40593-024-00394-1)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating Student Ratings with Features of Automatically Generated Questions: A Large-Scale Analysis using Data from Natural Learning Contexts](https://doi.org/10.5281/zenodo.12729796)
 
 Unless otherwise noted, our data sets are available under the
