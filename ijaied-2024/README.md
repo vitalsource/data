@@ -1,9 +1,9 @@
 # Evaluation of Automatically Generated Questions for Spanish Textbooks Data Set
 
-This folder contains the data set and analysis code for our project
-evaluating the quality of automatically generated questions for
-Spanish-language textbooks by subject matter experts (SMEs), discussed
-in our paper
+This folder contains the supporting data set and analysis code for our
+project on evaluating the quality of automatically generated questions
+for Spanish-language textbooks by subject matter experts (SMEs). This
+research is discussed in
 
 Johnson, B. G., Van Campenhout, R., Jerome, B., Castro, M. F.,
 Bistolfi, R., & Dittel, J. S. (2024). Automatic Question Generation
