@@ -54,7 +54,7 @@ monitor and perform quality assurance on this enormous question set.
 For example, human review of the AG questions is not practical at this
 scale.
 
-We have developed [an automated system for montitoring question
+We have developed [an automated system for monitoring question
 quality](https://link.springer.com/chapter/10.1007/978-3-031-34735-1_22)
 that currently employs two evaluation methods. One is a Bayesian
 analysis that removes questions with a mean score likely to be below a
