@@ -28,12 +28,12 @@ that is often prohibitive in time and cost for manual development.
 
 We are using automatic question generation (AQG) to lower this
 barrier, using electronic textbooks as source material. To date,
-approximately 2.5 million automatically generated (AG) questions have
-been added to thousands of online textbooks in the VitalSource
-Bookshelf ereader platform as a free study feature called CoachMe,
-available to millions of students. There are several types of AG
-questions available, including fill-in-the-blank (FITB), matching,
-multiple choice, and free response.
+millions of automatically generated (AG) questions have been added to
+thousands of textbooks in the VitalSource Bookshelf ereader platform,
+available to millions of students as a free study feature called
+CoachMe. There are several types of AG questions available, including
+fill-in-the-blank (FITB), matching, multiple choice, and free
+response.
 
 As shown below, the questions open in a panel next to the textbook
 content. As formative practice, students are allowed as many answer
@@ -68,15 +68,15 @@ students seeing them at all would obviously be more desirable.
 In this study, we investigate using a large language model to identify
 unacceptable AG questions without student using data. Our procedure is
 very simple. The LLM was directed to answer the questions as if it
-were a student, and questions answered incorrectly are considered
-unacceptable.  Why might this criterion be useful? The LLM is better
-at answering the AG questions than students, so an incorrect answer
-may be more likely to indicate a defect in the question rather than,
-e.g., a limitation of the LLM’s knowledge.
+were a student, and questions answered incorrectly were considered
+unacceptable. Why might this criterion be useful? The LLM is better at
+answering the AG questions than students, so an incorrect answer may
+be more likely to indicate a defect in the question rather than, e.g.,
+a limitation of the LLM’s knowledge.
 
-The data set provided is from use of CoachMe in the Chemistry 101
-course at a U.S. major public university in the Fall 2023
-semester. The textbook used in the course was [Chemistry: Atoms
+The data set provided is from student usage of CoachMe in the
+Chemistry 101 course at a U.S. major public university in the Fall
+2023 semester. The textbook used in the course was [Chemistry: Atoms
 First](https://openstax.org/details/books/chemistry-atoms-first-2e)
 from [OpenStax](https://openstax.org/). FITB questions, which are the
 majority of the AG questions added to textbooks so far, are the
