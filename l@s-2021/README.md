@@ -11,9 +11,9 @@ Proceedings of the Eighth ACM Conference on Learning@Scale,
 pp. 295–298. https://doi.org/10.1145/3430895.3460162
 
 Van Campenhout, R., Dittel, J. S., Jerome, B., & Johnson,
-B. G. (2021). Transforming textbooks into learning by doing
-environments: An evaluation of textbook-based automatic question
-generation. 22nd International Conference on Artificial Intelligence
+B. G. (2021). Transforming Textbooks into Learning by Doing
+Environments: An Evaluation of Textbook-Based Automatic Question
+Generation. 22nd International Conference on Artificial Intelligence
 in Education, Third Workshop on Intelligent Textbooks. CEUR Workshop
 Proceedings, ISSN 1613-0073, pp. 60–73.
 http://ceur-ws.org/Vol-2895/paper06.pdf
