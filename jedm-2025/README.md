@@ -137,7 +137,7 @@ Field | Type | Definition
 `H8_answer_location` | integer | Location of answer blank in sentence, starting at 0 for first word
 `H9_feedback` | categorical | `common_answer`, `context`, `outcome`
 `H10_reviewed` | categorical | 1 if question was manually reviewed, 0 if not
-`subject` | string | Subject domain of textbook
+`subject` | string | Textbook's BISAC major subject heading classification, e.g., "Medical"
 
 The Jupyter notebook provided contains Python and R code for
 reproducing the results given in the paper.
