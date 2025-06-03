@@ -26,6 +26,7 @@ Directory | Paper
 [ijaied-2024](https://github.com/vitalsource/data/tree/main/ijaied-2024) | [Automatic Question Generation for Spanish Textbooks: Evaluating Spanish Questions Generated with the Parallel Construction Method](https://link.springer.com/article/10.1007/s40593-024-00394-1)
 [aied-evallac-2024](https://github.com/vitalsource/data/tree/main/aied-evallac-2024) | [Exploring Large Language Models for Evaluating Automatically Generated Questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating Student Ratings with Features of Automatically Generated Questions: A Large-Scale Analysis using Data from Natural Learning Contexts](https://doi.org/10.5281/zenodo.12729796)
+[jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and Contextual Factors Impacting Student Ratings of Automatically Generated Questions: A Large-Scale Data Analysis](https://doi.org/10.5281/zenodo.15174917)
 
 Unless otherwise noted, our data sets are available under the
 [Creative Commons Attribution 4.0 International
