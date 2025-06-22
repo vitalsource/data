@@ -1,15 +1,16 @@
-# Evaluation of Automatically Generated Questions for Spanish Textbooks Data Set
+# Evaluation of Automatically Generated Questions for Spanish Textbooks Dataset
 
-This folder contains the supporting data set and analysis code for our
-project on evaluating the quality of automatically generated questions
-for Spanish-language textbooks by subject matter experts (SMEs). This
-research is discussed in
+This directory contains the supporting dataset and analysis code for
+our project on evaluating the quality of automatically generated
+questions for Spanish-language textbooks by subject matter experts
+(SMEs). This research is discussed in
 
 Johnson, B. G., Van Campenhout, R., Jerome, B., Castro, M. F.,
-Bistolfi, R., & Dittel, J. S. (2024). Automatic Question Generation
-for Spanish Textbooks: Evaluating Spanish Questions Generated with the
-Parallel Construction Method. International Journal of Artificial
-Intelligence in Education. https://doi.org/10.1007/s40593-024-00394-1
+Bistolfi, R., & Dittel, J. S. (2024). Automatic question generation
+for Spanish textbooks: Evaluating Spanish questions generated with the
+parallel construction method. *International Journal of Artificial
+Intelligence in
+Education*. [https://doi.org/10.1007/s40593-024-00394-1](https://doi.org/10.1007/s40593-024-00394-1)
 
 This paper is part of a [Special Issue of IJAIED on Intelligent
 Textbooks](https://link.springer.com/collections/jcjcecejaf).
@@ -46,11 +47,11 @@ The files provided are:
 
 File | Description
 -----|------------
-question_reviews.xlsx | Question review data set
+question_reviews.xlsx | Question review dataset
 Spanish Question Review Analysis.ipynb | Jupyter notebook for question review analysis
 Question Review Instructions.docx | Instructions given to SME reviewers
 
-The data set is an Excel workbook with a separate worksheet for each
+The dataset is an Excel workbook with a separate worksheet for each
 reviewer. Each worksheet tab is named using the textbook subject area
 and reviewer number, e.g., `finance_reviewer_2`. The worksheet
 columns are:
