@@ -3,7 +3,7 @@
 This dataset supports our research on evaluating formative practice
 questions automatically generated for Spanish-language textbooks. The
 questions were reviewed by university faculty members teaching in
-Spanish. This research is discussed in
+Spanish. This research is discussed in our paper
 
 Van Campenhout, R., Castro, M. F., Bistolfi, R., Dittel, J. S., &
 Johnson, B. G. (2024). An expert evaluation of formative practice
