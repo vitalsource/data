@@ -3,7 +3,7 @@
 This directory contains the supporting dataset and analysis code for
 our project on evaluating the quality of automatically generated
 questions for Spanish-language textbooks by subject matter experts
-(SMEs). This research is discussed in
+(SMEs). This research is discussed in our paper
 
 Johnson, B. G., Van Campenhout, R., Jerome, B., Castro, M. F.,
 Bistolfi, R., & Dittel, J. S. (2024). Automatic question generation
