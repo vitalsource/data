@@ -25,7 +25,7 @@ Directory | Paper
 [l@s-2022](https://github.com/vitalsource/data/tree/main/l%40s-2022) | [Discrimination of automatically generated questions used as formative practice](https://doi.org/10.1145/3491140.3528323)
 [ijaied-2024](https://github.com/vitalsource/data/tree/main/ijaied-2024) | [Automatic question generation for Spanish textbooks: Evaluating Spanish questions generated with the parallel construction method](https://link.springer.com/article/10.1007/s40593-024-00394-1)
 [ife-2024](https://github.com/vitalsource/data/tree/main/ife-2024) | [An expert evaluation of formative practice generated for Spanish textbooks using Artificial Intelligence](https://drive.google.com/file/d/12i20aPeHYziygQ_oypLX9X0Ja5G1BFJw/view)
-[aied-evallac-2024](https://github.com/vitalsource/data/tree/main/aied-evallac-2024) | [Exploring large language models for evaluating automatically generated questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
+[aied-2024-evallac](https://github.com/vitalsource/data/tree/main/aied-2024-evallac) | [Exploring large language models for evaluating automatically generated questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating student ratings with features of automatically generated questions: A large-scale analysis using data from natural learning contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
 
