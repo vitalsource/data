@@ -11,7 +11,7 @@ automatically generated questions. In *Proceedings of the Workshop on
 Automated Evaluation of Learning and Assessment Content at the 25th
 International Conference on Artificial Intelligence in Education (AIED
 2024)*, Recife,
-Brazil. [https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view](https://drive.google.com/file/d/1vO21K60lDf18izQdr)
+Brazil. [https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 
 This paper was presented at [AIED
 2024](https://aied2024.cesar.school/) as part of the [Workshop on
