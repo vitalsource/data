@@ -1,16 +1,17 @@
-# Exploring Large Language Models for Evaluating Automatically Generated Questions Data Set
+# Exploring Large Language Models for Evaluating Automatically Generated Questions Dataset
 
-This folder contains the supporting data set and analysis code for our
-project on evaluating the quality of automatically generated questions
-using a large language model (LLM). This research is discussed in
+This directory contains the supporting dataset and analysis code for
+our project on evaluating the quality of automatically generated
+questions using a large language model (LLM). This research is
+discussed in
 
 Dittel, J. S., Van Campenhout, R., Clark, M. W., & Johnson,
-B. G. (2024). Exploring Large Language Models for Evaluating
-Automatically Generated Questions. 25th International Conference on
-Artificial Intelligence in Education (AIED 2024), Workshop on
-Automated Evaluation of Learning and Assessment Content, Recife,
-Brazil, July
-2024. https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view
+B. G. (2024). Exploring large language models for evaluating
+automatically generated questions. In *Proceedings of the Workshop on
+Automated Evaluation of Learning and Assessment Content at the 25th
+International Conference on Artificial Intelligence in Education (AIED
+2024)*, Recife,
+Brazil. [https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view](https://drive.google.com/file/d/1vO21K60lDf18izQdr)
 
 This paper was presented at [AIED
 2024](https://aied2024.cesar.school/) as part of the [Workshop on
@@ -74,7 +75,7 @@ answering the AG questions than students, so an incorrect answer may
 be more likely to indicate a defect in the question rather than, e.g.,
 a limitation of the LLM’s knowledge.
 
-The data set provided is from student usage of CoachMe in the
+The dataset provided is from student usage of CoachMe in the
 Chemistry 101 course at a U.S. major public university in the Fall
 2023 semester. The textbook used in the course was [Chemistry: Atoms
 First](https://openstax.org/details/books/chemistry-atoms-first-2e)
@@ -83,7 +84,7 @@ majority of the AG questions added to textbooks so far, are the
 focus. These are created by selecting important sentences from
 textbook content and turning them into cloze questions by removing an
 important word as a blank for the student to fill in (shown
-above). The data set comprises 54 FITB questions that met the
+above). The dataset comprises 54 FITB questions that met the
 selection criteria in our paper, involving 247 students and 12,373
 student-question interaction events.
 
@@ -100,11 +101,11 @@ The files provided are:
 
 File | Description
 -----|------------
-question_data.csv | Question data set
+question_data.csv | Question dataset
 events.parquet | Student-question interaction events
 Exploring an LLM for Evaluating Automatically Generated Questions.ipynb | Jupyter notebook for data analysis
 
-The fields in the question data set are:
+The fields in the question dataset are:
 
 Field | Type | Definition
 ------|------|-----------
@@ -123,7 +124,7 @@ Field | Type | Definition
 `answer_paragraph` | string | LLM's answer to the question given the question's paragraph
 `answer_paragraph_correct` | boolean | Whether `answer_paragraph` is correct
 
-The fields in the student-question interaction events data set are:
+The fields in the student-question interaction events dataset are:
 
 Field | Type | Definition
 ------|------|-----------

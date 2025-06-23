@@ -1,22 +1,22 @@
-# Automatically Generated and Human-Authored Question Performance Data Set
+# Automatically Generated and Human-Authored Question Performance Dataset
 
-This folder contains the complete data set and analysis code for our
-project comparing performance of automatically generated and human-authored
-questions, which is discussed in our papers
+This directory contains the complete dataset and analysis code for
+our project comparing performance of automatically generated and
+human-authored questions, which is discussed in our papers
 
 Van Campenhout, R., Brown, N., Jerome, B., Dittel, J. S., & Johnson,
-B. G. (2021). Toward Effective Courseware at Scale: Investigating
-Automatically Generated Questions as Formative Practice. L@S '21:
-Proceedings of the Eighth ACM Conference on Learning@Scale,
-pp. 295–298. https://doi.org/10.1145/3430895.3460162
+B. G. (2021). Toward effective courseware at scale: Investigating
+automatically generated questions as formative practice. In
+*Proceedings of the Eighth ACM Conference on Learning@Scale*
+(pp. 295–298). ACM. [https://doi.org/10.1145/3430895.3460162](https://doi.org/10.1145/3430895.3460162)
 
 Van Campenhout, R., Dittel, J. S., Jerome, B., & Johnson,
-B. G. (2021). Transforming Textbooks into Learning by Doing
-Environments: An Evaluation of Textbook-Based Automatic Question
-Generation. 22nd International Conference on Artificial Intelligence
-in Education, Third Workshop on Intelligent Textbooks. CEUR Workshop
-Proceedings, ISSN 1613-0073, pp. 60–73.
-http://ceur-ws.org/Vol-2895/paper06.pdf
+B. G. (2021). Transforming textbooks into learning by doing
+environments: An evaluation of textbook-based automatic question
+generation. In *Proceedings of the Third Workshop on Intelligent
+Textbooks at the 22nd International Conference on Artificial
+Intelligence in Education* (pp. 60–73). CEUR Workshop
+Proceedings. [http://ceur-ws.org/Vol-2895/paper06.pdf](http://ceur-ws.org/Vol-2895/paper06.pdf)
 
 We are pleased and honored to have won the first ever Learning@Scale
 Best Open Data Set Paper Award for this work! Thank you,
@@ -35,7 +35,7 @@ that is often prohibitive in time and cost for manual development. We
 are investigating automatic question generation (AQG) as a way to
 reduce this barrier, using textbooks as the source material.
 
-The data set made available is from an ongoing project to evaluate the
+The dataset made available is from an ongoing project to evaluate the
 quality of textbook-based AQG in a variety of natural learning
 contexts. Data are provided from six college courses that used
 textbook-based courseware environments, in which automatically
@@ -48,7 +48,7 @@ to formative practice: engagement, difficulty, and persistence.
 * Difficulty: Whether a student answers a question correctly on the first attempt.
 * Persistence: Whether a student continues to answer a question until correct when the first attempt is incorrect.
 
-We believe this data set, containing 786,242 total observations of
+We believe this dataset, containing 786,242 total observations of
 student-question interactions in natural learning contexts, to be the
 largest of its kind to date, useful for gaining insights into the
 potential for AQG to enhance textbook content.
@@ -70,24 +70,24 @@ The files provided are:
 
 File | Description
 -----|------------
-engagement_neuroscience.txt | Engagement data set for the Neuroscience course
-engagement_communication_a.txt | Engagement data set for the Communication A course
-engagement_microbiology.txt | Engagement data set for the Microbiology course
-engagement_psychology.txt | Engagement data set for the Psychology course
-engagement_communication_b.txt | Engagement data set for the Communication B course
-engagement_accounting.txt | Engagement data set for the Accounting course
-difficulty_neuroscience.txt | Difficulty data set for the Neuroscience course
-difficulty_communication_a.txt | Difficulty data set for the Communication A course
-difficulty_microbiology.txt | Difficulty data set for the Microbiology course
-difficulty_psychology.txt | Difficulty data set for the Psychology course
-difficulty_communication_b.txt | Difficulty data set for the Communication B course
-difficulty_accounting.txt | Difficulty data set for the Accounting course
-persistence_neuroscience.txt | Persistence data set for the Neuroscience course
-persistence_communication_a.txt | Persistence data set for the Communication A course
-persistence_microbiology.txt | Persistence data set for the Microbiology course
-persistence_psychology.txt | Persistence data set for the Psychology course
-persistence_communication_b.txt | Persistence data set for the Communication B course
-persistence_accounting.txt | Persistence data set for the Accounting course
+engagement_neuroscience.txt | Engagement dataset for the Neuroscience course
+engagement_communication_a.txt | Engagement dataset for the Communication A course
+engagement_microbiology.txt | Engagement dataset for the Microbiology course
+engagement_psychology.txt | Engagement dataset for the Psychology course
+engagement_communication_b.txt | Engagement dataset for the Communication B course
+engagement_accounting.txt | Engagement dataset for the Accounting course
+difficulty_neuroscience.txt | Difficulty dataset for the Neuroscience course
+difficulty_communication_a.txt | Difficulty dataset for the Communication A course
+difficulty_microbiology.txt | Difficulty dataset for the Microbiology course
+difficulty_psychology.txt | Difficulty dataset for the Psychology course
+difficulty_communication_b.txt | Difficulty dataset for the Communication B course
+difficulty_accounting.txt | Difficulty dataset for the Accounting course
+persistence_neuroscience.txt | Persistence dataset for the Neuroscience course
+persistence_communication_a.txt | Persistence dataset for the Communication A course
+persistence_microbiology.txt | Persistence dataset for the Microbiology course
+persistence_psychology.txt | Persistence dataset for the Psychology course
+persistence_communication_b.txt | Persistence dataset for the Communication B course
+persistence_accounting.txt | Persistence dataset for the Accounting course
 Question Engagement Analysis.ipynb | Jupyter notebook for engagement regression analysis
 Question Difficulty Analysis.ipynb | Jupyter notebook for difficulty regression analysis
 Question Persistence Analysis.ipynb | Jupyter notebook for persistence regression analysis
