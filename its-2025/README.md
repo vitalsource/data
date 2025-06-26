@@ -72,7 +72,7 @@ The provided files are:
 | File                                 | Description                                                    |
 | ------------------------------------ | -------------------------------------------------------------- |
 | `events.parquet`                     | Student-question interaction events                            |
-| `sessions.parquet`                   | Student-question session data                                  |
+| `sessions.parquet`                   | Student-question sessions                                      |
 | `categorize_attempts.py`             | Script assigning student answer categories using LLM analysis  |
 | `Feedback Engagement Analysis.ipynb` | Jupyter notebook for replication of data analysis in the paper |
 
