@@ -28,6 +28,7 @@ Directory | Paper
 [aied-2024-evallac](https://github.com/vitalsource/data/tree/main/aied-2024-evallac) | [Exploring large language models for evaluating automatically generated questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating student ratings with features of automatically generated questions: A large-scale analysis using data from natural learning contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
+[its-2025](https://github.com/vitalsource/data/tree/main/its-2025) | [\*\*\*ADD LINK\*\*\*Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](PLACEHOLDER_LINK) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
