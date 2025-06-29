@@ -1,18 +1,25 @@
 # VitalSource Supplemental Data Repository
 
 This repository contains supporting datasets and analysis code for
-several of our papers where we evaluate the use of [automatic question
-generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/) as
-a way to add formative practice to electronic textbooks at a large
-scale. To date, millions of automatically generated questions have
-been added to thousands of textbooks in the VitalSource Bookshelf
-ereader platform and are available to millions of students as a free
-study feature called
+several of our papers evaluating the use of artificial intelligence to
+enhance electronic textbooks at scale. These projects include
+[automatic question
+generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/)
+(AQG) as well as other generative AI–based features such as text
+simplification. All datasets are drawn from real student interactions
+in the VitalSource Bookshelf ereader platform.
+
+Our earliest research focused on AQG as a method for adding formative
+practice to textbooks. Millions of automatically generated questions
+have been added to thousands of textbooks in Bookshelf as part of a
+free study feature called
 [CoachMe](https://www.vitalsource.com/coach-me). CoachMe is based on
 the [Doer
 Effect](https://research.vitalsource.com/research/doer-effect), the
 learning science principle that students who do practice as they read
-have better learning outcomes than those who only read. All of our
+have better learning outcomes than those who only read. Our efforts
+have since expanded beyond AQG to include other generative AI-based
+interventions to support student learning and engagement. All of our
 published research papers can be found on our [research
 site](https://research.vitalsource.com).
 
