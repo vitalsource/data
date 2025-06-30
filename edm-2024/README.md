@@ -81,7 +81,6 @@ H8 | Questions where the answer blank occurs early in the sentence will receive 
 H9 | Questions that give elaborative feedback after an incorrect answer will receive more :+1: and fewer :-1: than questions that give only outcome feedback.
 H10 | Questions that have been reviewed by a human reviewer before inclusion will receive more :+1: and fewer :-1: than questions that did not have human review.
 
-
 Each hypothesis was operationalized with a variable from the session
 data and AG question characteristics for inclusion in the explanatory
 model. Mixed effects logistic regression was used to model the
@@ -101,14 +100,6 @@ File | Description
 -----|------------
 sessions.parquet | Student sessions dataset
 Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
-
-The sessions data file is in Apache Parquet format. The Python code
-example below loads the sessions data into a pandas dataframe:
-
-```
-import pandas as pd
-sessions = pd.read_parquet( 'sessions.parquet' )
-```
 
 The fields in the dataset are:
 

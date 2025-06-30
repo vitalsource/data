@@ -111,14 +111,6 @@ File | Description
 sessions.parquet | Student sessions dataset
 Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
 
-The sessions data file is in Apache Parquet format. The Python code
-example below loads the sessions data into a pandas dataframe:
-
-```
-import pandas as pd
-sessions = pd.read_parquet( 'sessions.parquet' )
-```
-
 The fields in the dataset are:
 
 Field | Type | Definition
