@@ -76,14 +76,6 @@ The provided files are:
 | `categorize_attempts.py`             | Script assigning student answer categories using LLM analysis  |
 | `Feedback Engagement Analysis.ipynb` | Jupyter notebook for replication of data analysis in the paper |
 
-The data files are in Apache Parquet format. The Python code example
-below loads the sessions data into a pandas dataframe:
-
-```python
-import pandas as pd
-sessions = pd.read_parquet( 'sessions.parquet' )
-```
-
 In the dataset, student answer attempts are classified using shorthand
 symbols to represent their accuracy and authenticity. Although these
 symbols (+, -, x) are not used in the paper, they correspond directly
