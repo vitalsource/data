@@ -98,8 +98,8 @@ The files provided are:
 
 File | Description
 -----|------------
-sessions.parquet | Student sessions dataset
-Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
+`sessions.parquet` | Student sessions dataset
+`Student Ratings of Automatically Generated Questions Analysis.ipynb` | Jupyter notebook for student ratings analysis
 
 The fields in the dataset are:
 
@@ -119,9 +119,6 @@ Field | Type | Definition
 `H8_answer_location` | integer | Location of answer blank in sentence, starting at 0 for first word
 `H9_feedback` | categorical | `common_answer`, `context`, `outcome`
 `H10_reviewed` | categorical | 1 if question was manually reviewed, 0 if not
-
-The Jupyter notebook provided contains Python and R code for
-reproducing the results given in the paper.
 
 ## Contact Us
 

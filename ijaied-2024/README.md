@@ -47,9 +47,9 @@ The files provided are:
 
 File | Description
 -----|------------
-question_reviews.xlsx | Question review dataset
-Spanish Question Review Analysis.ipynb | Jupyter notebook for question review analysis
-Question Review Instructions.docx | Instructions given to SME reviewers
+`question_reviews.xlsx` | Question review dataset
+`Spanish Question Review Analysis.ipynb` | Jupyter notebook for question review analysis
+`Question Review Instructions.docx` | Instructions given to SME reviewers
 
 The dataset is an Excel workbook with a separate worksheet for each
 reviewer. Each worksheet tab is named using the textbook subject area
@@ -65,9 +65,6 @@ Column | Type | Definition
 `Answer` | string | Correct answer word (`FITB`) or words (`matching`)
 `Chapter` | string  | Title of textbook chapter from which question was generated
 `Section` | string | Title of textbook section from which question was generated
-
-The Jupyter notebook provided contains Python code for reproducing the
-results given in the paper.
 
 ## Contact Us
 
