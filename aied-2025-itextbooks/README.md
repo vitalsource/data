@@ -102,7 +102,7 @@ This example reflects a clear reduction in linguistic complexity. The
 cosine similarity value of .967 indicates a strong preservation of
 meaning between the original and simplified passages.
 
-## Data Files and Code Notebooks
+## Data Files and Analysis Code
 
 The provided files are:
 
