@@ -65,7 +65,7 @@ student learning behaviors and the impact of personalized feedback.
 Further methodological details and analysis results can be found in
 the accompanying paper.
 
-## Data Files and Code Notebooks
+## Data Files and Analysis Code
 
 The provided files are:
 
