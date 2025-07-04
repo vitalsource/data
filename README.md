@@ -28,7 +28,7 @@ Directory | Paper
 [aied-2024-evallac](https://github.com/vitalsource/data/tree/main/aied-2024-evallac) | [Exploring large language models for evaluating automatically generated questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating student ratings with features of automatically generated questions: A large-scale analysis using data from natural learning contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
-[l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926)
+[l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
