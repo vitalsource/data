@@ -27,6 +27,7 @@ Directory | Paper
 [aied-evallac-2024](https://github.com/vitalsource/data/tree/main/aied-evallac-2024) | [Exploring Large Language Models for Evaluating Automatically Generated Questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating Student Ratings with Features of Automatically Generated Questions: A Large-Scale Analysis using Data from Natural Learning Contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and Contextual Factors Impacting Student Ratings of Automatically Generated Questions: A Large-Scale Data Analysis](https://doi.org/10.5281/zenodo.15174917)
+[aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [\*\*\*ADD LINK\*\*\*Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](PLACEHOLDER_LINK) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 
 Unless otherwise noted, our data sets are available under the
 [Creative Commons Attribution 4.0 International
