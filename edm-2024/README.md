@@ -98,7 +98,7 @@ The files provided are:
 
 File | Description
 -----|------------
-`sessions.parquet` | Student sessions dataset
+`sessions.parquet` | Student-question sessions dataset
 `Student Ratings of Automatically Generated Questions Analysis.ipynb` | Jupyter notebook for student ratings analysis
 
 The fields in the dataset are:
