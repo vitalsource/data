@@ -117,7 +117,7 @@ The dataset contains the following fields:
 | ----------------------------------- | --------------------------------------------------------------------------- |
 | `timestamp`                         | Date and time of simplification event                                       |
 | `student_id`                        | Anonymized student identifier                                               |
-| `textbook_id`                       | Textbook identifier                                                         |
+| `textbook_id`                       | Textbook unique identifier                                                  |
 | `subject`                           | Textbook subject area (e.g., Social Science, Psychology)                    |
 | `selected`                          | Student-selected original textbook passage                                  |
 | `simplified`                        | LLM-generated simplified passage                                            |
