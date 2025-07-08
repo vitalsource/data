@@ -6,7 +6,7 @@ Van Campenhout, R., Dittel, J. S., & Johnson, B. G. (2025). Scaling
 effective characteristics of ITSs: A preliminary analysis of LLM-based
 personalized feedback. In *Proceedings of the 21st International
 Conference on Intelligent Tutoring Systems (ITS 2025)*. \*\*\*FINISH
-REF. [https://doi.org/PLACEHOLDER_DOI](https://doi.org/PLACEHOLDER_DOI)
+REF. [https://doi.org/10.1007/978-3-031-98281-1_13](https://doi.org/10.1007/978-3-031-98281-1_13)
 
 We are honored to have received the \*\*\*[Best Short Paper Award
 (update link when available)](PLACEHOLDER_LINK) at [ITS
