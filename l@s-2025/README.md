@@ -21,6 +21,25 @@ formative practice questions is resource-intensive and impractical at
 scale. Recent advances in automatic question generation (AQG) have
 enabled large-scale creation of formative practice questions.
 
+Building on these advances, we have introduced CoachMe, a free study
+feature integrated into the VitalSource Bookshelf ereader
+platform. CoachMe delivers formative practice through automatically
+generated (AG) questions placed directly within electronic
+textbooks. AG questions have already been added to thousands of
+textbooks, serving millions of students. CoachMe supports several
+question types, including FITB, matching, multiple choice, and free
+response.
+
+As shown below, CoachMe questions appear in a panel next to the
+textbook content. Students can make unlimited attempts, receive
+immediate feedback, and reveal answers if needed. They can also rate
+questions after answering with a social media-style 👍 or 👎, and
+these ratings are the specific focus of this dataset.
+
+<p align="center">
+<img alt="A FITB formative practice question in a chemistry textbook." src="./CoachMe_screenshot.png"/>
+</p>
+
 This study specifically investigates whether integrating an LLM-based
 filter into an existing rule-based AQG pipeline can identify sentences
 unsuitable for cloze question generation. By detecting sentences
