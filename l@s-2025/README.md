@@ -63,16 +63,16 @@ The dataset for this analysis is a subset of a [previously released
 dataset](https://github.com/vitalsource/data/tree/aied-2025-itextbooks/edm-2024),
 specifically focused on FITB cloze question interactions recorded
 between January 1, 2022, and January 16, 2024. Student-question
-sessions were formed by grouping all actions of one student on a
+sessions were formed by grouping all actions of a single student on a
 single question. Filtering for publishers granting permission for
 generative AI research resulted in a dataset comprising 1,305,957
 sessions across 210,902 questions, 106,183 students, and 2,510
 textbooks, predominantly from the Social Science, Psychology, and
 Political Science domains.
 
-Eleven hypotheses were tested, with hypotheses H1–H10 previously
-validated in earlier work and included here as control variables, and
-hypothesis H11 newly introduced as the primary focus of this analysis:
+Eleven hypotheses were tested, with hypotheses H1–H10 validated in
+earlier work and included here as control variables, and hypothesis
+H11 newly introduced as the primary focus of this analysis:
 
 | Hypothesis | Description |
 |------------|-------------|
@@ -91,9 +91,12 @@ hypothesis H11 newly introduced as the primary focus of this analysis:
 Mixed effects logistic regression modeling was used to test whether
 sentences flagged by the LLM as unsuitable (H11) were more likely to
 receive negative student feedback (👎), controlling for previously
-validated explanatory variables (H1–H10).
+validated explanatory variables (H1–H10). In the explanatory modeling
+framework followed, a statistically significant relationship between
+an explanatory variable and a rating outcome provides evidence that
+the relationship in the corresponding hypothesis is causal.
 
-Further details can be found in the paper cited above.
+Further details can be found in the paper above.
 
 ## Data Files and Analysis Code
 
