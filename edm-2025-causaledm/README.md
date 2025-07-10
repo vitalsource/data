@@ -150,9 +150,9 @@ The questions dataset includes the following fields:
 
 ## Acknowledgments
 
-We thank the following publishers for granting permission to release
-the automatically generated ***revise wording*** questions in the
-dataset for their textbooks:
+We thank the following publishers for granting permission to include
+automatically generated questions from their textbooks in this open
+dataset:
 
 - OpenStax
 - SAGE Publications
