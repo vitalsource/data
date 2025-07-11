@@ -8,13 +8,15 @@ discussed in our paper:
 
 Johnson, B. G., Dittel, J. S., & Van Campenhout, R. (2025). Improving
 automatically generated fill-in-the-blank answer selection with an
-LLM-based agreement filter. In _Proceedings of the EDM Causal
-Inference Workshop at EDM 2025_. https://doi.org/PLACEHOLDER_DOI
+LLM-based agreement filter. In _Proceedings of the Causal Inference in
+Educational Data Mining Workshop at the 18th International Conference
+on Educational Data
+Mining_. https://sites.google.com/view/causaledm2025workshop
 
 This paper was presented at [EDM
 2025](https://educationaldatamining.org/edm2025/) as part of the
-[Causal Inference Workshop](PLACEHOLDER_LINK) (link to be updated when
-available).
+[Causal Inference in Educational Data Mining
+Workshop](https://sites.google.com/view/causaledm2025workshop).
 
 ## Description
 
