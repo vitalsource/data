@@ -78,28 +78,28 @@ The provided files are:
 
 In the dataset, student answer attempts are classified using shorthand
 symbols to represent their accuracy and authenticity. Although these
-symbols (+, -, x) are not used in the paper, they correspond directly
+symbols (`+`, `-`, `x`) are not used in the paper, they correspond directly
 to the categories defined in the following table:
 
 | Category    | Symbol | Description                                                                                             |
 | ----------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| Correct     | +      | The response accurately addressed the key distinction between terms.                                    |
-| Incorrect   | -      | The response did not sufficiently answer the question, despite appearing to be a genuine effort.        |
-| Non-Genuine | x      | The response did not constitute a legitimate attempt (e.g., random characters, “idk”, irrelevant text). |
+| Correct     | `+`    | The response accurately addressed the key distinction between terms.                                    |
+| Incorrect   | `-`    | The response did not sufficiently answer the question, despite appearing to be a genuine effort.        |
+| Non-Genuine | `x`    | The response did not constitute a legitimate attempt (e.g., random characters, “idk”, irrelevant text). |
 
 The interaction event fields are:
 
-| Field              | Type    | Definition                                         |
-| ------------------ | ------- | -------------------------------------------------- |
-| `timestamp`        | string  | Date and time of answer attempt                    |
-| `question_id`      | string  | Unique identifier for question                     |
-| `student_id`       | string  | Anonymized student identifier                      |
-| `question`         | string  | Text of question                                   |
-| `attempt_number`   | integer | Sequential number of student's answer attempt      |
-| `answer`           | string  | Student-provided answer                            |
-| `feedback`         | string  | Feedback given by LLM on answer attempt            |
-| `attempt_category` | string  | Answer attempt accuracy and authenticity (+, -, x) |
-| `answer_length`    | integer | Length of answer attempt in words                  |
+| Field              | Type    | Definition                                               |
+| ------------------ | ------- | -------------------------------------------------------- |
+| `timestamp`        | string  | Date and time of answer attempt                          |
+| `question_id`      | string  | Unique identifier for question                           |
+| `student_id`       | string  | Anonymized student identifier                            |
+| `question`         | string  | Text of question                                         |
+| `attempt_number`   | integer | Sequential number of student's answer attempt            |
+| `answer`           | string  | Student-provided answer                                  |
+| `feedback`         | string  | Feedback given by LLM on answer attempt                  |
+| `attempt_category` | string  | Answer attempt accuracy and authenticity (`+`, `-`, `x`) |
+| `answer_length`    | integer | Length of answer attempt in words                        |
 
 The session fields are:
 
@@ -108,7 +108,7 @@ The session fields are:
 | `question_id`            | string | Unique identifier for question                                                                                          |
 | `student_id`             | string | Anonymized student identifier                                                                                           |
 | `pattern`                | string | Concatenation of `attempt_category` symbols for student answer attempts on question                                     |
-| `first_attempt`          | string | Category of first answer attempt (+, -, x)                                                                              |
+| `first_attempt`          | string | Category of first answer attempt (`+`, `-`, `x`)                                                                        |
 | `second_attempt`         | string | Category of second answer attempt (missing if no second attempt)                                                        |
 | `second_attempt_elapsed` | float  | Elapsed time (s) between student's first and second attempts                                                            |
 | `second_attempt_overlap` | float  | Degree of textual overlap ([0, 1]) between student's second attempt and LLM's feedback on student's first attempt       |
