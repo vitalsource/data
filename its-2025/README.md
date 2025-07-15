@@ -113,6 +113,11 @@ The session fields are:
 | `second_attempt_elapsed` | float  | Elapsed time (s) between student's first and second attempts                                                            |
 | `second_attempt_overlap` | float  | Degree of textual overlap ([0, 1]) between student's second attempt and LLM's feedback on student's first attempt       |
 
+## Acknowledgment
+
+We thank SAGE Publications for granting permission to include student
+use of the open-ended questions in this dataset.
+
 ## Contact Us
 
 If you have questions, please feel free to email
