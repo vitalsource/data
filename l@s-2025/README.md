@@ -9,9 +9,8 @@ our paper:
 Dittel, J. S., Van Campenhout, R., & Johnson, B. G. (2025). Refining
 sentence selection for automatic cloze question generation with large
 language models. In _Proceedings of the Twelfth ACM Conference on
-Learning at Scale (L@S '25)_, Palermo,
-Italy. https://doi.org/10.1145/3698205.3733926, **pp. TODO: add page
-numbers when available**
+Learning at Scale (L@S ’25)_
+(pp. 217–221). ACM. https://doi.org/10.1145/3698205.3733926
 
 ## Description
 
