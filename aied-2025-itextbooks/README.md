@@ -7,7 +7,7 @@ R. (2025). Improving textbook readability through AI simplification:
 Readability improvements and meaning preservation. In *Proceedings of
 the Sixth Workshop on Intelligent Textbooks at the 24th International
 Conference on Artificial Intelligence in Education*. CEUR Workshop
-Proceedings. \*\*\*[https://doi.org/PLACEHOLDER\_DOI](https://doi.org/PLACEHOLDER_DOI)
+Proceedings. [https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf](https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf)
 
 This paper was presented at [AIED 2025](https://aied2025.itd.cnr.it/)
 as part of the [Sixth Workshop on Intelligent Textbooks
