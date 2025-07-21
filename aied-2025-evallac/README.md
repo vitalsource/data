@@ -8,7 +8,7 @@ feedback: Analyzing LLM-enabled features with student data. In
 *Proceedings of the Second Workshop on Automated Evaluation of
 Learning and Assessment Content at the 26th International Conference
 on Artificial Intelligence in Education (AIED
-2025)*. [\*\*\*UPDATEhttps://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
+2025)*. [https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view)
 
 This paper was presented at [AIED 2025](https://aied2025.itd.cnr.it/)
 as part of the [Second Workshop on Automated Evaluation of Learning
