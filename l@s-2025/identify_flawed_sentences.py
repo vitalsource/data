@@ -124,7 +124,6 @@ def assess_sentence( sentence, prompt, verbose=False ):
 
 def assess_sentences( question_data ):
     llm_assess_col = f"flawed"
-#!!!    question_data[ llm_assess_col ] = None
     if llm_assess_col not in question_data.columns:
         question_data[ llm_assess_col ] = None
     print( 'Assessing', question_data[ llm_assess_col ].isna().sum(), 'of', len( question_data ), 'sentences...' )
