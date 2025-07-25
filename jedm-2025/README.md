@@ -1,6 +1,6 @@
-# Student Ratings of Automatically Generated Questions Data Set
+# Student Ratings of Automatically Generated Questions Dataset
 
-This folder contains the data set and analysis code for our project
+This directory contains the dataset and analysis code for our project
 investigating factors influencing student ratings of automatically
 generated questions, discussed in our paper
 
@@ -64,17 +64,17 @@ work. These questions are created by selecting important sentences
 from textbook content and turning them into cloze questions by removing
 an important word as a blank for the student to fill in.
 
-The data set for this study was compiled from student interactions
+The dataset for this study was compiled from student interactions
 with FITB practice questions from January 1, 2022 to January 16,
 2024, grouped into sessions consisting of all actions of an individual
 student on an individual question. For each session, whether the
 student gave a :+1: or :-1: rating (or neither) is noted. This
-resulted in a data set of 5,214,211 question sessions from natural
+resulted in a dataset of 5,214,211 question sessions from natural
 learning contexts. It is believed to be the largest of its kind to
 date, involving 809,848 AG questions, 432,930 students, and 9,320
 textbooks.
 
-This data set was used to build an explanatory model to evaluate ten
+This dataset was used to build an explanatory model to evaluate ten
 hypotheses about causal relationships affecting student rating
 behavior. The hypotheses tested were:
 
@@ -108,7 +108,7 @@ The files provided are:
 
 File | Description
 -----|------------
-sessions.parquet | Student sessions data set
+sessions.parquet | Student sessions dataset
 Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
 
 The sessions data file is in Apache Parquet format. The Python code
@@ -119,7 +119,7 @@ import pandas as pd
 sessions = pd.read_parquet( 'sessions.parquet' )
 ```
 
-The fields in the data set are:
+The fields in the dataset are:
 
 Field | Type | Definition
 ------|------|-----------

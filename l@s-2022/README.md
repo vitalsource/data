@@ -1,13 +1,14 @@
-# Automatically Generated and Human-Authored Question Discrimination Data Set
+# Automatically Generated and Human-Authored Question Discrimination Dataset
 
-This folder contains the complete data set for our study comparing
+This directory contains the complete dataset for our study comparing
 discrimination of automatically generated and human-authored
 questions, which is discussed in our paper
 
-Johnson, B. G., Dittel, J. S., Van Campenhout, R., & Jerome, B. (2022).
-Discrimination of Automatically Generated Questions Used as Formative
-Practice. L@S '22: Proceedings of the Ninth ACM Conference on
-Learning@Scale, pp. 325-329. https://doi.org/10.1145/3491140.3528323
+Johnson, B. G., Dittel, J. S., Van Campenhout, R., & Jerome,
+B. (2022). Discrimination of automatically generated questions used as
+formative practice. In *Proceedings of the Ninth ACM Conference on
+Learning@Scale*
+(pp. 325–329). ACM. [https://doi.org/10.1145/3491140.3528323](https://doi.org/10.1145/3491140.3528323)
 
 ## Description
 
@@ -20,7 +21,7 @@ that is often prohibitive in time and cost for manual development. We
 are investigating automatic question generation (AQG) as a way to
 reduce this barrier, using textbooks as the source material.
 
-The data set made available is from an ongoing project to evaluate the
+The dataset made available is from an ongoing project to evaluate the
 quality of textbook-based AQG in a variety of natural learning
 contexts. The present study builds on our previous work in which we
 found found that automatically generated (AG) and human-authored (HA)
@@ -98,7 +99,7 @@ model_summary_neuroscience_p34.txt | IRT model summary from `pymc3` for page 34 
 model_summary_neuroscience_p.58txt | IRT model summary from `pymc3` for page 58 of the Neuroscience course
 
 Data files are tab-delimited with one observation per line. The format
-is the same as the difficulty data sets in our previous investigation
+is the same as the difficulty datasets in our previous investigation
 of AG question engagement, difficulty and persistence. The fields in
 the data files are:
 
