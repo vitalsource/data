@@ -109,7 +109,6 @@ def assess_ecm_answers( question_data ):
             print( 'Saving backup...' )
             question_data.to_parquet( f'{question_data_fn}_bak' )
             print( "*" * 120 )
-#        assert 0
 
 
 parser = argparse.ArgumentParser()
