@@ -30,6 +30,7 @@ Directory | Paper
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
 [edm-2025-causaledm](https://github.com/vitalsource/data/tree/main/edm-2025-causaledm) | [Improving automatically generated fill-in-the-blank answer selection with an LLM-based agreement filter](https://sites.google.com/view/causaledm2025workshop) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 [l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
+[aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
