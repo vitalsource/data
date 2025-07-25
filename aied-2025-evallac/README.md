@@ -49,13 +49,13 @@ open-ended formats encourage higher-order thinking by asking students
 to synthesize content or distinguish between closely related concepts,
 supported by feedback grounded in textbook content.
 
-The dataset comprises student-question sessions from natural learning
-contexts, collected between August 15, 2024, and February 9, 2025.
-Each session captures all actions by an individual student on a single
-question in chronological order, including answer attempts, student
-ratings, and revision behavior such as multiple attempts on the same
-question.
-TODO:***Something about individual answer events for more detail.
+The dataset comprises student-question interactions from natural
+learning contexts, collected between August 15, 2024, and February 9,
+2025. It includes both session-level summaries and detailed events
+for individual answer attempts. Each session represents all actions by
+a single student on a given question in chronological order, including
+answer submissions, student ratings, and revision behavior such as
+multiple attempts.
 
 The primary research questions for this study were:
 
