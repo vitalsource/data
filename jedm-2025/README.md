@@ -102,7 +102,7 @@ the relationship in the corresponding hypothesis is causal.
 
 Further details can be found in the paper above.
 
-## Data Files and Code Notebooks
+## Data Files and Analysis Code
 
 The files provided are:
 
