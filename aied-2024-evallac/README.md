@@ -101,9 +101,9 @@ The files provided are:
 
 File | Description
 -----|------------
-question_data.csv | Question dataset
-events.parquet | Student-question interaction events
-Exploring an LLM for Evaluating Automatically Generated Questions.ipynb | Jupyter notebook for data analysis
+`question_data.csv` | Question dataset
+`events.parquet` | Student-question interaction events
+`Exploring an LLM for Evaluating Automatically Generated Questions.ipynb` | Jupyter notebook for replication of data analysis in the paper
 
 The fields in the question dataset are:
 
@@ -135,9 +135,6 @@ Field | Type | Definition
 `correct` | boolean | Whether student answer is correct for `evaluate_response` (null for other event types)
 `first_attempt` | boolean | Whether this is student's first attempt to answer the question for `evaluate_response` (null for other event types)
 `extra` | JSON | Additional event-specific data, e.g., student's answer for `evaluate_response`, rating for `flag_question`
-
-The Jupyter notebook provided contains Python code for reproducing the
-results given in the paper.
 
 ## Contact Us
 

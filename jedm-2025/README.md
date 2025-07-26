@@ -108,16 +108,8 @@ The files provided are:
 
 File | Description
 -----|------------
-sessions.parquet | Student sessions dataset
-Student Ratings of Automatically Generated Questions Analysis.ipynb | Jupyter notebook for student ratings analysis
-
-The sessions data file is in Apache Parquet format. The Python code
-example below loads the sessions data into a pandas dataframe:
-
-```
-import pandas as pd
-sessions = pd.read_parquet( 'sessions.parquet' )
-```
+`sessions.parquet` | Student-question sessions dataset
+`Student Ratings of Automatically Generated Questions Analysis.ipynb` | Jupyter notebook for student ratings analysis
 
 The fields in the dataset are:
 
@@ -138,9 +130,6 @@ Field | Type | Definition
 `H9_feedback` | categorical | `common_answer`, `context`, `outcome`
 `H10_reviewed` | categorical | 1 if question was manually reviewed, 0 if not
 `subject` | string | Textbook's BISAC major subject heading classification, e.g., "Medical"
-
-The Jupyter notebook provided contains Python and R code for
-reproducing the results given in the paper.
 
 ## Contact Us
 
