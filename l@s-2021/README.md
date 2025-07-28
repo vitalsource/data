@@ -64,33 +64,33 @@ Accounting | 51 | 191 | 403 | 14,661 | 8,309 | 2,027
 
 Further details can be found in the paper above.
 
-## Data Files and Code Notebooks
+## Data Files and Analysis Code
 
 The files provided are:
 
 File | Description
 -----|------------
-engagement_neuroscience.txt | Engagement dataset for the Neuroscience course
-engagement_communication_a.txt | Engagement dataset for the Communication A course
-engagement_microbiology.txt | Engagement dataset for the Microbiology course
-engagement_psychology.txt | Engagement dataset for the Psychology course
-engagement_communication_b.txt | Engagement dataset for the Communication B course
-engagement_accounting.txt | Engagement dataset for the Accounting course
-difficulty_neuroscience.txt | Difficulty dataset for the Neuroscience course
-difficulty_communication_a.txt | Difficulty dataset for the Communication A course
-difficulty_microbiology.txt | Difficulty dataset for the Microbiology course
-difficulty_psychology.txt | Difficulty dataset for the Psychology course
-difficulty_communication_b.txt | Difficulty dataset for the Communication B course
-difficulty_accounting.txt | Difficulty dataset for the Accounting course
-persistence_neuroscience.txt | Persistence dataset for the Neuroscience course
-persistence_communication_a.txt | Persistence dataset for the Communication A course
-persistence_microbiology.txt | Persistence dataset for the Microbiology course
-persistence_psychology.txt | Persistence dataset for the Psychology course
-persistence_communication_b.txt | Persistence dataset for the Communication B course
-persistence_accounting.txt | Persistence dataset for the Accounting course
-Question Engagement Analysis.ipynb | Jupyter notebook for engagement regression analysis
-Question Difficulty Analysis.ipynb | Jupyter notebook for difficulty regression analysis
-Question Persistence Analysis.ipynb | Jupyter notebook for persistence regression analysis
+`engagement_neuroscience.txt` | Engagement dataset for the Neuroscience course
+`engagement_communication_a.txt` | Engagement dataset for the Communication A course
+`engagement_microbiology.txt` | Engagement dataset for the Microbiology course
+`engagement_psychology.txt` | Engagement dataset for the Psychology course
+`engagement_communication_b.txt` | Engagement dataset for the Communication B course
+`engagement_accounting.txt` | Engagement dataset for the Accounting course
+`difficulty_neuroscience.txt` | Difficulty dataset for the Neuroscience course
+`difficulty_communication_a.txt` | Difficulty dataset for the Communication A course
+`difficulty_microbiology.txt` | Difficulty dataset for the Microbiology course
+`difficulty_psychology.txt` | Difficulty dataset for the Psychology course
+`difficulty_communication_b.txt` | Difficulty dataset for the Communication B course
+`difficulty_accounting.txt` | Difficulty dataset for the Accounting course
+`persistence_neuroscience.txt` | Persistence dataset for the Neuroscience course
+`persistence_communication_a.txt` | Persistence dataset for the Communication A course
+`persistence_microbiology.txt` | Persistence dataset for the Microbiology course
+`persistence_psychology.txt` | Persistence dataset for the Psychology course
+`persistence_communication_b.txt` | Persistence dataset for the Communication B course
+`persistence_accounting.txt` | Persistence dataset for the Accounting course
+`Question Engagement Analysis.ipynb` | Jupyter notebook for engagement regression analysis
+`Question Difficulty Analysis.ipynb` | Jupyter notebook for difficulty regression analysis
+`Question Persistence Analysis.ipynb` | Jupyter notebook for persistence regression analysis
 
 Data files are tab-delimited with one observation per line. The fields in the data files are:
 

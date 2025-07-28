@@ -1,18 +1,25 @@
 # VitalSource Supplemental Data Repository
 
 This repository contains supporting datasets and analysis code for
-several of our papers where we evaluate the use of [automatic question
-generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/) as
-a way to add formative practice to electronic textbooks at a large
-scale. To date, millions of automatically generated questions have
-been added to thousands of textbooks in the VitalSource Bookshelf
-ereader platform and are available to millions of students as a free
-study feature called
+several of our papers evaluating the use of artificial intelligence to
+enhance electronic textbooks at scale. These projects include
+[automatic question
+generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9886210/)
+(AQG) as well as other generative AI–based features such as text
+simplification. All datasets are drawn from real student interactions
+in the VitalSource Bookshelf ereader platform.
+
+Our earliest research focused on AQG as a method for adding formative
+practice to textbooks. Millions of automatically generated questions
+have been added to thousands of textbooks in Bookshelf as part of a
+free study feature called
 [CoachMe](https://www.vitalsource.com/coach-me). CoachMe is based on
 the [Doer
 Effect](https://research.vitalsource.com/research/doer-effect), the
 learning science principle that students who do practice as they read
-have better learning outcomes than those who only read. All of our
+have better learning outcomes than those who only read. Our efforts
+have since expanded beyond AQG to include other generative AI-based
+interventions to support student learning and engagement. All of our
 published research papers can be found on our [research
 site](https://research.vitalsource.com).
 
@@ -29,6 +36,10 @@ Directory | Paper
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating student ratings with features of automatically generated questions: A large-scale analysis using data from natural learning contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
 [its-2025](https://github.com/vitalsource/data/tree/main/its-2025) | [Scaling effective characteristics of ITSs: A preliminary analysis of LLM-based personalized feedback](https://doi.org/10.1007/978-3-031-98281-1_13) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
+[edm-2025-causaledm](https://github.com/vitalsource/data/tree/main/edm-2025-causaledm) | [Improving automatically generated fill-in-the-blank answer selection with an LLM-based agreement filter](https://sites.google.com/view/causaledm2025workshop) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
+[l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
+[aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
+[aied-2025-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2025-itextbooks) | [Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Aug 27, 2025 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
