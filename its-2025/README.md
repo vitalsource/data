@@ -4,12 +4,12 @@ This directory contains the dataset and analysis code for our paper:
 
 Van Campenhout, R., Dittel, J. S., & Johnson, B. G. (2025). Scaling
 effective characteristics of ITSs: A preliminary analysis of LLM-based
-personalized feedback. In *Proceedings of the 21st International
-Conference on Intelligent Tutoring Systems (ITS 2025)*. \*\*\*FINISH
-REF. [https://doi.org/10.1007/978-3-031-98281-1_13](https://doi.org/10.1007/978-3-031-98281-1_13)
+personalized feedback. In S. Graf & A. Markos (Eds.), _Generative
+Systems and Intelligent Tutoring Systems (ITS 2025)_
+(pp. 171–181). Springer. (Lecture Notes in Computer Science,
+Vol. 15723). https://doi.org/10.1007/978-3-031-98281-1_13
 
-We are honored to have received the \*\*\*[Best Short Paper Award
-(update link when available)](PLACEHOLDER_LINK) at [ITS
+We are honored to have received the Best Short Paper Award at [ITS
 2025](https://iis-international.org/its2025-generative-systems/) for
 this work. Thank you, ITS!
 
