@@ -43,7 +43,7 @@ questions.
 | Communication B | 79       | 386          | 533          | 35,351                  | 17,547                  | 4,806                    |
 | Accounting      | 51       | 191          | 403          | 14,661                  | 8,309                   | 2,027                    |
 
-## Data Files and Code Notebooks
+## Data Files and Analysis Code
 
 This directory provides a comprehensive set of detailed regression
 analyses for each course and metric that could not be included in the
