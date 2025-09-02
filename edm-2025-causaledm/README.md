@@ -11,7 +11,7 @@ automatically generated fill-in-the-blank answer selection with an
 LLM-based agreement filter. In _Proceedings of the Causal Inference in
 Educational Data Mining Workshop at the 18th International Conference
 on Educational Data
-Mining_. https://sites.google.com/view/causaledm2025workshop
+Mining_. https://drive.google.com/file/d/1qJzkLz78t1afIJ4KKKxI7tCxrhWklOcP/view
 
 This paper was presented at [EDM
 2025](https://educationaldatamining.org/edm2025/) as part of the
