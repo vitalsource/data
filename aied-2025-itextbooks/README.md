@@ -3,11 +3,13 @@
 This directory contains the dataset and analysis code for our paper:
 
 Johnson, B. G., Jerome, B., Dittel, J. S., & Van Campenhout,
-R. (2025). Improving textbook readability through AI simplification:
-Readability improvements and meaning preservation. In *Proceedings of
-the Sixth Workshop on Intelligent Textbooks at the 24th International
-Conference on Artificial Intelligence in Education*. CEUR Workshop
-Proceedings. [https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf](https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf)
+R. (2025). Improving textbook accessibility through AI simplification:
+Readability improvements and meaning preservation. In S. Sosnovsky,
+P. Brusilovsky, A. Lan, & I. Alpizar-Chacon (Eds.), *Proceedings of
+the Sixth Workshop on Intelligent Textbooks at the 26th International
+Conference on Artificial Intelligence in Education* (pp. 45–58). CEUR
+Workshop Proceedings,
+Vol. 4010. [https://ceur-ws.org/Vol-4010/itb25_s2p2.pdf](https://ceur-ws.org/Vol-4010/itb25_s2p2.pdf)
 
 This paper was presented at [AIED 2025](https://aied2025.itd.cnr.it/)
 as part of the [Sixth Workshop on Intelligent Textbooks
