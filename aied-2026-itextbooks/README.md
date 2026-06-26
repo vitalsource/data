@@ -8,8 +8,7 @@ feedback isn't automatically better: Static scaffolds outperform
 dynamic feedback in textbook-embedded practice. In *Proceedings of the
 Seventh Workshop on Intelligent Textbooks at the 27th International
 Conference on Artificial Intelligence in Education*. CEUR Workshop
-Proceedings. [Official citation and PDF link will be added upon
-publication.]
+Proceedings. [https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf)
 
 This paper was presented at [AIED 2026](https://www.aied-conference.org/2026) as part of the
 [Seventh Workshop on Intelligent Textbooks (iTextbooks)](https://intextbooks.science.uu.nl/workshop2026/).

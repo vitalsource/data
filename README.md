@@ -40,7 +40,7 @@ Directory | Paper
 [l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926)
 [aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view)
 [aied-2025-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2025-itextbooks) | [Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](https://intextbooks.science.uu.nl/workshop2025/files/iTextbooks2025_paper_9.pdf)
-[aied-2026-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2026-itextbooks) | LLM feedback isn’t automatically better: Static scaffolds outperform dynamic feedback in textbook-embedded practice ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
+[aied-2026-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2026-itextbooks) | [LLM feedback isn’t automatically better: Static scaffolds outperform dynamic feedback in textbook-embedded practice](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
