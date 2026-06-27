@@ -35,11 +35,12 @@ Directory | Paper
 [aied-2024-evallac](https://github.com/vitalsource/data/tree/main/aied-2024-evallac) | [Exploring large language models for evaluating automatically generated questions](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
 [edm-2024](https://github.com/vitalsource/data/tree/main/edm-2024) | [Investigating student ratings with features of automatically generated questions: A large-scale analysis using data from natural learning contexts](https://doi.org/10.5281/zenodo.12729796)
 [jedm-2025](https://github.com/vitalsource/data/tree/main/jedm-2025) | [Intrinsic and contextual factors impacting student ratings of automatically generated questions: A large-scale data analysis](https://doi.org/10.5281/zenodo.15174917)
-[its-2025](https://github.com/vitalsource/data/tree/main/its-2025) | [Scaling effective characteristics of ITSs: A preliminary analysis of LLM-based personalized feedback](https://doi.org/10.1007/978-3-031-98281-1_13) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Oct 2, 2025 -->
+[its-2025](https://github.com/vitalsource/data/tree/main/its-2025) | [Scaling effective characteristics of ITSs: A preliminary analysis of LLM-based personalized feedback](https://doi.org/10.1007/978-3-031-98281-1_13)
 [edm-2025-causaledm](https://github.com/vitalsource/data/tree/main/edm-2025-causaledm) | [Improving automatically generated fill-in-the-blank answer selection with an LLM-based agreement filter](https://drive.google.com/file/d/1qJzkLz78t1afIJ4KKKxI7tCxrhWklOcP/view)
 [l@s-2025](https://github.com/vitalsource/data/tree/main/l@s-2025) | [Refining sentence selection for automatic cloze question generation with large language models](https://doi.org/10.1145/3698205.3733926)
 [aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view)
 [aied-2025-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2025-itextbooks) | [Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](https://ceur-ws.org/Vol-4010/itb25_s2p2.pdf)
+[aied-2026-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2026-itextbooks) | [LLM feedback isn’t automatically better: Static scaffolds outperform dynamic feedback in textbook-embedded practice](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
