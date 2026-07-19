@@ -5,7 +5,7 @@ our project on evaluating the quality of automatically generated
 questions using a large language model (LLM). This research is
 discussed in
 
-Dittel, J. S., Van Campenhout, R., Clark, M. W., & Johnson,
+Dittel, J. S., Clark, M. W., Van Campenhout, R., & Johnson,
 B. G. (2024). Exploring large language models for evaluating
 automatically generated questions. In *Proceedings of the Workshop on
 Automated Evaluation of Learning and Assessment Content at the 25th
