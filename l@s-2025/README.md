@@ -150,7 +150,7 @@ automatically generated questions derived from their textbooks as part
 of this open dataset:
 
 - OpenStax
-- SAGE Publications
+- SAGE Publications, Inc. (US)
 - Taylor & Francis
 
 ## Contact Us

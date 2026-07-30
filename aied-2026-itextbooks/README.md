@@ -135,8 +135,8 @@ CoachMe formative practice questions in their textbooks as part of this open dat
 
 - Cambridge University Press
 - Emond Publishing
-- F. A. Davis Company
-- Human Kinetics Publishers
+- F.A. Davis
+- Human Kinetics
 - OpenStax
 - SAGE Publications, Inc. (US)
 - SAGE Publications, Ltd. (UK)
