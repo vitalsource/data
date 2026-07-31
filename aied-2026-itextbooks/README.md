@@ -128,6 +128,25 @@ The dataset contains the following fields:
 | `edit_distance` | integer | Damerau-Levenshtein edit distance between `student_answer` and `correct_answer` |
 | `edit_distance_quartile` | categorical | Quartile of `edit_distance` within the dataset (Q1–Q4) |
 
+## Corrections
+
+**2026-07-31 — `dynamic_feedback_prompt.txt`.** The originally published version of this
+file was transcribed by hand from the deployed source. Its wording was identical to the
+prompt used in the study, but it did not reproduce that prompt byte for byte: leading
+indentation and Unicode smart quotes were normalized to plain text, and the blank line
+separating each few-shot example's inputs from its demonstrated feedback was removed.
+The last of these measurably changes how often generated feedback contains the correct
+answer, and therefore how often the no-leak guardrail rejects it in favor of static
+feedback. The file has since been regenerated directly from the deployed source and now
+matches it exactly; SHA-256 checksums for both message blocks are included in the file
+to allow verification.
+
+The study itself was unaffected — the discrepancy existed only in this documentation
+file, not in the deployed system. However, anyone who downloaded
+`dynamic_feedback_prompt.txt` before 2026-07-31 and used it to reproduce the feedback
+generation should replace it, as the earlier version does not yield the compliance rate
+reported in the paper.
+
 ## Acknowledgments
 
 We thank the following publishers for granting permission to include student use of
