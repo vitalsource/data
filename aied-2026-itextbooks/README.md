@@ -5,10 +5,11 @@ This directory contains the dataset and analysis code for our paper:
 Johnson, B. G., Dittel, J. S., Ortiz, O. J., Bistolfi, R., Clark,
 M. W., Jerome, B., Benton, R., & Van Campenhout, R. (2026). LLM
 feedback isn't automatically better: Static scaffolds outperform
-dynamic feedback in textbook-embedded practice. In *Proceedings of the
-Seventh Workshop on Intelligent Textbooks at the 27th International
-Conference on Artificial Intelligence in Education*. CEUR Workshop
-Proceedings. [https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf)
+dynamic feedback in textbook-embedded practice. In S. Sosnovsky,
+P. Brusilovsky, A. Lan, & I. Alpizar-Chacon (Eds.), *Proceedings of
+the Seventh International Workshop on Intelligent Textbooks 2026*
+(pp. 4–18). CEUR Workshop Proceedings,
+Vol. 4231. [https://ceur-ws.org/Vol-4231/itb26_s1p1.pdf](https://ceur-ws.org/Vol-4231/itb26_s1p1.pdf)
 
 This paper was presented at [AIED 2026](https://www.aied-conference.org/2026) as part of the
 [Seventh Workshop on Intelligent Textbooks (iTextbooks)](https://intextbooks.science.uu.nl/workshop2026/).
