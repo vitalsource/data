@@ -41,6 +41,7 @@ Directory | Paper
 [aied-2025-evallac](https://github.com/vitalsource/data/tree/main/aied-2025-evallac) | [Open-ended questions need personalized feedback: Analyzing LLM-enabled features with student data](https://drive.google.com/file/d/15HCyN1uU6AtIT8aVpMJCS5ZQa75buA_g/view)
 [aied-2025-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2025-itextbooks) | [Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](https://ceur-ws.org/Vol-4010/itb25_s2p2.pdf)
 [aied-2026-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2026-itextbooks) | [LLM feedback isn’t automatically better: Static scaffolds outperform dynamic feedback in textbook-embedded practice](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
+[softcom-2026](https://github.com/vitalsource/data/tree/softcom-2026/softcom-2026) | [When correct isn’t enough: A cognitive load theory critical analysis of AI tutor responses](#) <!-- *** DO NOT MERGE: replace # with paper URL and change branch to main *** --> ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Mar 1, 2027 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International
