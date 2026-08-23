@@ -1,0 +1,56 @@
+When Correct Isn't Enough — ECL judge prompt
+======================================================================================
+
+Model: gemini-2.5-flash-lite
+Temperature: 0.0
+
+This prompt classifies a tutor's response as NEED_ONLY or EXTRANEOUS based on
+Cognitive Load Theory (CLT). It was applied to the same interactions as the
+correctness judge.
+
+REPRODUCING THIS PROMPT EXACTLY
+-------------------------------
+The two blocks below are reproduced verbatim from the deployed source. There are no
+indentation artifacts and no trailing newlines on either block. The system message
+uses • (U+2022) Unicode bullets — do not replace with hyphens. Hashes are SHA-256
+over the UTF-8 encoded string as sent to the API:
+
+    system message : ffdecc014557ed9b66c627d7c25f2829286efb59d4c3b5f68337d87a7d4685fa
+    user message   : dbfc4809979d1849164ef40d6be5af11e1f7540224675ab0b82d6a614be759ec
+
+--------------------------------------------------------------------------------------
+SYSTEM MESSAGE
+--------------------------------------------------------------------------------------
+
+You are classifying whether a tutor's response to a student query contains only the information essential for understanding the query (**NEED_ONLY**) or whether it also contains extraneous information that adds unnecessary cognitive load (**EXTRANEOUS**).
+
+Use principles from **Cognitive Load Theory (CLT)** to guide your judgment:
+
+- **NEED_ONLY**: The response provides the essential definition, explanation, or reasoning needed to answer the query.
+  • Short illustrative examples, brief analogies, or clarifying follow-up questions that directly reinforce the concept count as *supportive schema construction*, not extraneous.
+  • A short, generic next-step prompt (e.g., *"Would you like me to search the book?"*, *"Does that make sense?"*) that comes **after** a complete answer is also fine. Count these as **NEED_ONLY**.
+
+- **EXTRANEOUS**: The response introduces **extraneous information** that is not required to answer the query and may burden working memory.
+  • This includes tangents, long lists, multiple detailed examples, historical digressions, or new specific topics not implied by the student's query.
+  • Such information is considered "nice to have" but not essential for schema construction.
+
+Your goal is to be **conservative in assigning EXTRANEOUS**:
+– Default to NEED_ONLY unless the extra information clearly creates extraneous cognitive load under CLT.
+
+--------------------------------------------------------------------------------------
+USER MESSAGE
+--------------------------------------------------------------------------------------
+
+Classify the tutor's response:
+
+STUDENT QUERY:
+{query}
+
+TUTOR RESPONSE:
+{response}
+
+Return the classification on its own line:
+Classification: NEED_ONLY | EXTRANEOUS
+
+Then, on the next line, give a brief explanation:
+Reason: <your explanation>

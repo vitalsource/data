@@ -42,6 +42,7 @@ Directory | Paper
 [aied-2025-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2025-itextbooks) | [Improving textbook accessibility through AI simplification: Readability improvements and meaning preservation](https://ceur-ws.org/Vol-4010/itb25_s2p2.pdf)
 [csedu-2026](https://github.com/vitalsource/data/tree/main/csedu-2026) | [Extending an automatic question generation pipeline with LLM-based free-response tasks: An analysis of performance metrics using student data](https://doi.org/10.5220/0014655400004021) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
 [aied-2026-itextbooks](https://github.com/vitalsource/data/tree/main/aied-2026-itextbooks) | [LLM feedback isn’t automatically better: Static scaffolds outperform dynamic feedback in textbook-embedded practice](https://ceur-ws.org/Vol-4231/itb26_s1p1.pdf) ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Dec 1, 2026 -->
+[softcom-2026](https://github.com/vitalsource/data/tree/softcom-2026/softcom-2026) | [When correct isn’t enough: A cognitive load theory critical analysis for AI tutor responses](#) <!-- *** DO NOT MERGE: replace # with paper URL and change branch to main *** --> ![NEW](https://img.shields.io/badge/status-new-brightgreen) <!-- remove badge after Mar 1, 2027 -->
 
 Unless otherwise noted, our datasets are available under the
 [Creative Commons Attribution 4.0 International

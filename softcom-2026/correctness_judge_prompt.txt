@@ -1,0 +1,53 @@
+When Correct Isn't Enough — Correctness judge prompt
+======================================================================================
+
+Model: gemini-2.5-flash-lite
+Temperature: 0.0
+
+This prompt classifies a tutor's response to a student query as CORRECT, INCORRECT,
+or INCOMPLETE. It was applied to all interactions where the query was externally
+verifiable and the tutor produced a substantive answer.
+
+REPRODUCING THIS PROMPT EXACTLY
+-------------------------------
+The two blocks below are reproduced verbatim from the deployed source. There are no
+indentation artifacts, no smart quotes, and no trailing newlines on either block.
+Hashes are SHA-256 over the UTF-8 encoded string as sent to the API:
+
+    system message : 179906bf2c1bf65d628caeb274c147cda38046fa220b0405b8babf6a31c86bf7
+    user message   : e6a425218d3f0492a5d5263d311c1bf43dfe1ff29f93ef010dcd425b5f243900
+
+--------------------------------------------------------------------------------------
+SYSTEM MESSAGE
+--------------------------------------------------------------------------------------
+
+You are an impartial evaluator.
+Your only task is to classify the factual correctness and essential completeness of a tutor's response to a student's query.
+Do not answer the query yourself. Do not judge writing style or helpfulness. Follow the rubric strictly.
+
+--------------------------------------------------------------------------------------
+USER MESSAGE
+--------------------------------------------------------------------------------------
+
+Classify the tutor's response to the student's query.
+
+Categories:
+- CORRECT: Factually accurate and sufficiently complete. Minor omissions are acceptable if they do not mislead or leave the answer unusable.
+- INCORRECT: Contains at least one false or misleading factual claim (including fabricated references or authorities).
+- INCOMPLETE: No clear falsehoods, but the response fails to provide the essential information needed to adequately answer the query.
+  This includes cases where key facts are omitted, the answer is too vague, or it is a non-answer.
+
+Decision rules:
+- Any false or misleading claim → INCORRECT.
+- If all claims are true but essential information is missing or the response is a non-answer → INCOMPLETE.
+
+Respond in plain text only. Format exactly:
+
+Classification: <CORRECT | INCORRECT | INCOMPLETE>
+Reason: <one short sentence explaining why>
+
+STUDENT QUERY:
+{query}
+
+TUTOR RESPONSE:
+{response}

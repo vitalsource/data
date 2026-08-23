@@ -115,7 +115,7 @@ The session fields are:
 
 ## Acknowledgment
 
-We thank SAGE Publications for granting permission to include student
+We thank SAGE Publications, Inc. (US) for granting permission to include student
 use of the open-ended questions in this dataset.
 
 ## Contact Us
