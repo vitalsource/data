@@ -5,13 +5,13 @@ our project on evaluating the quality of automatically generated
 questions using a large language model (LLM). This research is
 discussed in
 
-Dittel, J. S., Van Campenhout, R., Clark, M. W., & Johnson,
+Dittel, J. S., Clark, M. W., Van Campenhout, R., & Johnson,
 B. G. (2024). Exploring large language models for evaluating
 automatically generated questions. In *Proceedings of the Workshop on
 Automated Evaluation of Learning and Assessment Content at the 25th
 International Conference on Artificial Intelligence in Education (AIED
 2024)*, Recife,
-Brazil. [https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view](https://drive.google.com/file/d/1vO21K60lDf18izQdr79CpJxOvfXvHQBM/view)
+Brazil. [https://ceur-ws.org/Vol-3772/paper4short.pdf](https://ceur-ws.org/Vol-3772/paper4short.pdf)
 
 This paper was presented at [AIED
 2024](https://aied2024.cesar.school/) as part of the [Workshop on

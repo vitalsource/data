@@ -5,10 +5,11 @@ This directory contains the dataset and analysis code for our paper:
 Johnson, B. G., Dittel, J. S., Ortiz, O. J., Bistolfi, R., Clark,
 M. W., Jerome, B., Benton, R., & Van Campenhout, R. (2026). LLM
 feedback isn't automatically better: Static scaffolds outperform
-dynamic feedback in textbook-embedded practice. In *Proceedings of the
-Seventh Workshop on Intelligent Textbooks at the 27th International
-Conference on Artificial Intelligence in Education*. CEUR Workshop
-Proceedings. [https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1p1.pdf)
+dynamic feedback in textbook-embedded practice. In S. Sosnovsky,
+P. Brusilovsky, A. Lan, & I. Alpizar-Chacon (Eds.), *Proceedings of
+the Seventh International Workshop on Intelligent Textbooks 2026*
+(pp. 4–18). CEUR Workshop Proceedings,
+Vol. 4231. [https://ceur-ws.org/Vol-4231/itb26_s1p1.pdf](https://ceur-ws.org/Vol-4231/itb26_s1p1.pdf)
 
 This paper was presented at [AIED 2026](https://www.aied-conference.org/2026) as part of the
 [Seventh Workshop on Intelligent Textbooks (iTextbooks)](https://intextbooks.science.uu.nl/workshop2026/).
@@ -127,6 +128,25 @@ The dataset contains the following fields:
 | `correct_retry` | categorical | 1 if the student's next action produced a correct response, 0 otherwise |
 | `edit_distance` | integer | Damerau-Levenshtein edit distance between `student_answer` and `correct_answer` |
 | `edit_distance_quartile` | categorical | Quartile of `edit_distance` within the dataset (Q1–Q4) |
+
+## Corrections
+
+**2026-07-31 — `dynamic_feedback_prompt.txt`.** The originally published version of this
+file was transcribed by hand from the deployed source. Its wording was identical to the
+prompt used in the study, but it did not reproduce that prompt byte for byte: leading
+indentation and Unicode smart quotes were normalized to plain text, and the blank line
+separating each few-shot example's inputs from its demonstrated feedback was removed.
+The last of these measurably changes how often generated feedback contains the correct
+answer, and therefore how often the no-leak guardrail rejects it in favor of static
+feedback. The file has since been regenerated directly from the deployed source and now
+matches it exactly; SHA-256 checksums for both message blocks are included in the file
+to allow verification.
+
+The study itself was unaffected — the discrepancy existed only in this documentation
+file, not in the deployed system. However, anyone who downloaded
+`dynamic_feedback_prompt.txt` before 2026-07-31 and used it to reproduce the feedback
+generation should replace it, as the earlier version does not yield the compliance rate
+reported in the paper.
 
 ## Acknowledgments
 
