@@ -1,8 +1,7 @@
 # Cognitive Load Theory Evaluation of AI Tutor Responses Dataset
 
-Van Campenhout, R., Dittel, J. S., & Johnson, B. G. (2026). When correct isn't enough: A cognitive load theory critical analysis for AI tutor responses. In *Proceedings of the 34th International Conference on Software, Telecommunications and Computer Networks (SoftCOM 2026)*. IEEE.
-
-[Official citation and PDF link will be added upon publication.]
+Van Campenhout, R., Dittel, J. S., & Johnson, B. G. (2026). When correct isn't enough: A cognitive load theory critical analysis for AI tutor responses. In *Proceedings of the 34th International Conference on Software, Telecommunications and Computer Networks (SoftCOM 2026)* (pp. 1–6). IEEE.
+https://doi.org/10.23919/SoftCOM70073.2026.11761983
 
 This paper was presented at [SoftCOM 2026](https://2026.softcom.fesb.unist.hr/), the 34th International Conference on Software, Telecommunications and Computer Networks.
 
