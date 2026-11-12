@@ -153,10 +153,10 @@ student use of the simplifier feature in their textbooks as part of
 this open dataset:
 
 - Emond Publishing
-- F. A. Davis Company
-- Human Kinetics Publishers
+- F.A. Davis
+- Human Kinetics
 - OpenStax
-- SAGE Publications
+- SAGE Publications, Inc. (US)
 - Taylor & Francis
 
 ## Contact Us

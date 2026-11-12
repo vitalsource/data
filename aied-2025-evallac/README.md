@@ -134,10 +134,10 @@ student use of the open-ended questions in their textbooks in this
 dataset:
 
 - Emond Publishing
-- F. A. Davis Company
-- Human Kinetics Publishers
+- F.A. Davis
+- Human Kinetics
 - OpenStax
-- SAGE Publications
+- SAGE Publications, Inc. (US)
 - Taylor & Francis
 
 ## Contact Us
